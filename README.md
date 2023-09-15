@@ -23,5 +23,6 @@ MVC architecture, MVVM architecture, design patterns
 - **Arkanoid Block-Breaking game**  
 Implemented using Java, incorporating design patterns in object-oriented programming and leveraging OOP principles.  
 Link : [Arkanoid](https://github.com/roini7/Arkanoid)
-- **Producer-Consumer**  
+- **Producer-Consumer**
+Implemnted a solution for the producer-consumer problem in a reporter-article settings. This solution incorporates multi-threading, semaphore synchronization mechanism and efficient round robin scheduling.  
 Link : [Consumer-Producer](https://github.com/roini7/producer_consumer)
