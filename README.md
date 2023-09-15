@@ -1,7 +1,4 @@
-# Hello, I'm MagiCookie!
-
-<img src="https://avatars.githubusercontent.com/u/60584742?v=4" alt="profile pic" width="200" height="200"/>
-
+# Hello, I'm Roi!
 
 I'm a 3rd Year Computer Science Student.
 
@@ -11,12 +8,14 @@ I'm a 3rd Year Computer Science Student.
 - 📫 How to reach me: royvax96@gmail.com.
 - ⚡ Fun fact: First person that opened my eyes to computer science is David j. Malan of Harvard University when I was in high school, Iv'e been fascinated with it ever since!.
 
-### Languages and Tools:
-
+**Languages**:  
 C, C++, Assembly, Java, Python  
 HTML, CSS, JavaScript, JQUERY, React  
+**Technologies**:  
 Express, Node.js, Firebase, Socket IO  
 MVC architecture, MVVM architecture, design patterns  
+**Developing Enviorments**:  
+VS code, IntelliJ, Pycharm, Webstorm, Clion  
 
 ### Projects:
 
