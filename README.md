@@ -9,7 +9,7 @@ I'm a 3rd Year Computer Science Student.
 - ⚡ Fun fact: First person that opened my eyes to computer science is David j. Malan of Harvard University when I was in high school, Iv'e been fascinated with it ever since!.
 
 **Languages**:  
-C, C++, Assembly, Java, Python  
+C, C++, Assembly, Java, Python, SQL  
 HTML, CSS, JavaScript, JQUERY, React  
 **Technologies**:  
 Express, Node.js, Firebase, Socket IO  
